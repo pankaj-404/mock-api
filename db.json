@@ -1,0 +1,74 @@
+{
+    "data": {
+        "amenities": [
+            "Childrens toys", 
+            "Satellite or cable", 
+            "Hob electric", 
+            "Hob gas", 
+            "Hob induction", 
+            "Oven", 
+            "Microwave", 
+            "Dishwasher", 
+            "Swimming Pool", 
+            "Air-conditioning", 
+            "Balcony terrace", 
+            "Elevator", 
+            "Garden", 
+            "Off Road Parking", 
+            "Roof Terrace Garden", 
+            "Secure Parking"
+        ], 
+        "bathroom": [
+            "2 bathrooms", 
+            "1 bath", 
+            "2 showers", 
+            "2 toilets"
+        ], 
+        "bathrooms": 2, 
+        "bedrooms": 3, 
+        "cost_per_bedroom": 266, 
+        "cost_per_night": 799, 
+        "description": [
+            "A Luxury Vacation Stay", 
+            "Rather like gallery-studded Chelsea, Clement Place II is all about the art. You enter from the elevator, into a hallway that leads first to the master bedroom. This soft-grey room has a queen-size bed (with an intriguing canvas above it), a windowside sofa and a marble ensuite bathroom with both a bath and a shower. The next doorway leads to the second bedroom \u2013 yellow-painted, and lined with books as well as paintings \u2013 and the neighbouring bathroom, which has a shower.", 
+            "And then at the end of the hallway there\u2019s the open-plan living area. To the right here you\u2019ll find the kitchen \u2013 a smart, contemporary space. Just opposite is the dining area, its table surrounded by paintings and sculptures, and then beyond that there\u2019s a glass-walled sitting area with a designer sofa and a matching armchair. From there, a door opens onto the lofty terrace."
+        ], 
+        "families": [
+            "Pets Welcome", 
+            "Babies welcome", 
+            "Children welcome"
+        ], 
+        "highlights": [
+            "Ensuite", 
+            "Gym"
+        ], 
+        "hotel_images": {
+            "entrance": [
+                {
+                    "image": "https://onefinestay.imgix.net/media-library/2017-03-27-22-00-15-461248-EMM354-TAKE-01-19.jpg?auto=format&w=900&dpr=1", 
+                    "type": "Master Bedroom"
+                }, 
+                {
+                    "image": "https://onefinestay.imgix.net/media-library/JAB750-TAKE-02-49-HDR.jpg?auto=format&w=900&dpr=1", 
+                    "type": "Second Bedroom"
+                }
+            ], 
+            "outside": [
+                {
+                    "image": "https://onefinestay.imgix.net/media-library/GON300-TAKE-01-34.jpg?auto=format&w=900&dpr=1", 
+                    "type": "Terrace"
+                }
+            ]
+        }, 
+        "id": 1, 
+        "location": "Tokyo , Prefecture", 
+        "name": "Hashimoto Street", 
+        "people": 4, 
+        "sleeps": [
+            "4 people", 
+            "3 bedrooms", 
+            "2 Queen Size Beds"
+        ]
+    }, 
+    "status": "success"
+}
